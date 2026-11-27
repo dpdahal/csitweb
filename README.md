@@ -2,7 +2,7 @@
 
 ## Introduction
 
-* html intro
+* html introduction
 
 - teswt
 
